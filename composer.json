@@ -1,0 +1,12 @@
+{
+    "require": {
+        "kriswallsmith/assetic": "1.2.*@dev",
+        "patchwork/jsqueeze": "dev-master",
+        "natxet/CssMin": "dev-master",
+        "mrclay/minify": "*",
+        "twitter/bootstrap": "dev-address-13090",
+        "silex/silex": "~1.1",
+        "twig/twig": ">=1.8,<2.0-dev",
+        "leafo/lessphp": "0.4.0"
+    }
+}
